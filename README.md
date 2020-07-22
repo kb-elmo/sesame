@@ -4,7 +4,7 @@
 
 ### Alice like ergo keyboard using only THT parts
 
-[![](https://i.imgur.com/bQU1XQhl.jpg)](https://i.imgur.com/bQU1XQh.jpg.jpg)
+[![](https://i.imgur.com/bQU1XQhl.jpg)](https://i.imgur.com/bQU1XQh.jpg)
 
 ### Partslist
  |Count|Part|
