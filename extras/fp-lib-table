@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name MX_Only)(type KiCad)(uri D:/elmo/Documents/GitHub/sesame/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name custom_parts)(type KiCad)(uri D:/elmo/Documents/GitHub/sesame/custom_parts)(options "")(descr ""))
 )
