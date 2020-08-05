@@ -1,9 +1,11 @@
-# sesame
+# Sesame
 
-Alice style THT keyboard
+![sesame](https://i.imgur.com/IdudbWjl.jpg)
+
+Alice layout THT keyboard
 
 * Keyboard Maintainer: [kb-elmo](https://github.com/kb-elmo)
-* Hardware Supported: Sesame PCB
+* Hardware Supported: Sesame
 * Hardware Availability: [Project is open source](https://github.com/kb-elmo/sesame)
 
 Make example for this keyboard (after setting up your build environment):

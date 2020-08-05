@@ -4,7 +4,7 @@
 
 ### Alice like ergo keyboard using only THT parts
 
-[![](https://i.imgur.com/bQU1XQhl.jpg)](https://i.imgur.com/bQU1XQh.jpg)
+<img src="https://i.imgur.com/bQU1XQh.jpg" alt="drawing" width="800"/>
 
 ### Partslist
  |Count|Part|
@@ -25,7 +25,8 @@
  |2|3.6 V zener diode (DO-35 BZX55C3V6)|
  |66|universal switching diode (DO-35 1N4148)|
 
-
+<img src="https://files.elmo.space/kicad_images/sesame-Front.png" alt="drawing" width="800"/>
+<img src="https://files.elmo.space/kicad_images/sesame-Back.png" alt="drawing" width="800"/>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
