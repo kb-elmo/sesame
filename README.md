@@ -20,7 +20,7 @@
  |2|22 pF ceramic disk capacitor|
  |1|10 kΩ resistor|
  |2|68 Ω resistor|
- |2|1.5 kΩ resistor|
+ |1|1.5 kΩ resistor|
  |2|5.1 kΩ resistor|
  |2|3.6 V zener diode (DO-35 BZX55C3V6)|
  |66|universal switching diode (DO-35 1N4148)|
