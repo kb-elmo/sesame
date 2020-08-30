@@ -154,9 +154,9 @@ F 3 "~" H 9900 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 1400 6400 3    50   Input ~ 0
-reset
+RST
 Text GLabel 10250 5200 2    50   Input ~ 0
-reset
+RST
 $Comp
 L power:GND #PWR05
 U 1 1 5EC3C298
@@ -196,8 +196,6 @@ F 3 "~" H 10150 5050 50  0001 C CNN
 	1    10150 5050
 	1    0    0    -1  
 $EndComp
-Text GLabel 10350 5950 2    50   Input ~ 0
-boot
 Wire Wire Line
 	10350 5950 10200 5950
 $Comp
@@ -212,7 +210,7 @@ F 3 "" H 10150 4900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 4500 5200 1    50   Input ~ 0
-boot
+BOOT
 Text GLabel 4300 5200 1    50   Input ~ 0
 D+
 Text GLabel 2800 5200 1    50   Input ~ 0
@@ -2555,7 +2553,7 @@ F 3 "" H 5750 6800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 5500 6900 2    50   Input ~ 0
-reset
+RST
 $Comp
 L Connector_Generic:Conn_01x06 AVR1
 U 1 1 5F32D9BD
@@ -2571,4 +2569,6 @@ Wire Wire Line
 	5500 7300 5750 7300
 Wire Wire Line
 	5500 6800 5750 6800
+Text GLabel 10350 5950 2    50   Input ~ 0
+BOOT
 $EndSCHEMATC
