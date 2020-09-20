@@ -1,0 +1,516 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+                              c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+                              updater.o (__do_copy_data)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memcpy_PF.o)
+                              updater.o (memcpy_PF)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                              updater.o (memset)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .group         0x00000000        0xc updater.o
+ .bss           0x00000000        0x0 updater.o
+ .noinit        0x00000000        0x2 updater.o
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memcpy_PF.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memcpy_PF.o)
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD updater.o
+LOAD usbasploader.o
+START GROUP
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x00000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xc1e
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x00000054                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000076        0x4 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000007a        0x2 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000007a                __vector_1
+                0x0000007a                __vector_12
+                0x0000007a                __bad_interrupt
+                0x0000007a                __vector_6
+                0x0000007a                __vector_3
+                0x0000007a                __vector_11
+                0x0000007a                __vector_13
+                0x0000007a                __vector_17
+                0x0000007a                __vector_19
+                0x0000007a                __vector_7
+                0x0000007a                __vector_5
+                0x0000007a                __vector_4
+                0x0000007a                __vector_9
+                0x0000007a                __vector_2
+                0x0000007a                __vector_15
+                0x0000007a                __vector_8
+                0x0000007a                __vector_14
+                0x0000007a                __vector_10
+                0x0000007a                __vector_16
+                0x0000007a                __vector_18
+                0x0000007a                __vector_20
+ .text          0x0000007c      0x188 updater.o
+                0x0000007c                do_spm
+                0x000000aa                temp_do_spm
+                0x000000d8                mypgm_readpage
+                0x000000fe                mypgm_WRITEpage
+ .text          0x00000204      0x85e usbasploader.o
+                0x00000204                usbasploader
+                0x00000a62                _binary_usbasploader_raw_end
+ .text          0x00000a62       0x12 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memcpy_PF.o)
+                0x00000a62                memcpy_PF
+                0x00000a74                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00000a74      0x198 updater.o
+                0x00000a74                main
+ .text.avr-libc
+                0x00000c0c        0xe c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00000c0c                memset
+                0x00000c1a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000c1a        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+                0x00000c1a                _exit
+                0x00000c1a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000c1a        0x4 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00000c1e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x00000c1e                _etext = .
+
+.data           0x00800060        0x2 load address 0x00000c1e
+                0x00800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800060        0x2 updater.o
+                0x00800060                new_firmware
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800062                . = ALIGN (0x2)
+                0x00800062                _edata = .
+                0x00800062                PROVIDE (__data_end = .)
+
+.bss            0x00800062        0x0
+                [!provide]                PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+                [!provide]                PROVIDE (__bss_end = .)
+                0x00000c1e                __data_load_start = LOADADDR (.data)
+                0x00000c20                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800062        0x0
+                [!provide]                PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end = .)
+                0x00800062                _end = .
+                [!provide]                PROVIDE (__heap_start = .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 updater.o
+                                 0x12 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x68
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 updater.o
+ .debug_aranges
+                0x00000028       0x20 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000048       0x20 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0xc8c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0x75a updater.o
+ .debug_info    0x00000c40       0x26 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x00000c66       0x26 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+
+.debug_abbrev   0x00000000      0x7e1
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3      0x316 updater.o
+ .debug_abbrev  0x000007b9       0x14 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x000007cd       0x14 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+
+.debug_line     0x00000000      0x929
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x0000001d      0x814 updater.o
+ .debug_line    0x00000831       0x61 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x00000892       0x97 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+
+.debug_frame    0x00000000       0xf4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xf4 updater.o
+
+.debug_str      0x00000000     0x8948
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x00000196     0x8754 updater.o
+                               0x8860 (size before relaxing)
+ .debug_str     0x000088ea       0x5e c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_str     0x00008948       0x5e c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+
+.debug_loc      0x00000000      0x6db
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x6db updater.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x60
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x60 updater.o
+
+.debug_macro    0x00000000     0x2660
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x17f updater.o
+ .debug_macro   0x0000017f      0xb50 updater.o
+ .debug_macro   0x00000ccf       0x10 updater.o
+ .debug_macro   0x00000cdf      0x1c9 updater.o
+ .debug_macro   0x00000ea8      0x2fc updater.o
+ .debug_macro   0x000011a4       0x9e updater.o
+ .debug_macro   0x00001242      0xc24 updater.o
+ .debug_macro   0x00001e66      0x170 updater.o
+ .debug_macro   0x00001fd6       0xbd updater.o
+ .debug_macro   0x00002093       0x34 updater.o
+ .debug_macro   0x000020c7       0x18 updater.o
+ .debug_macro   0x000020df       0x6c updater.o
+ .debug_macro   0x0000214b       0xec updater.o
+ .debug_macro   0x00002237       0x22 updater.o
+ .debug_macro   0x00002259       0x33 updater.o
+ .debug_macro   0x0000228c       0x10 updater.o
+ .debug_macro   0x0000229c       0x89 updater.o
+ .debug_macro   0x00002325       0xd2 updater.o
+ .debug_macro   0x000023f7       0x69 updater.o
+ .debug_macro   0x00002460       0x5a updater.o
+ .debug_macro   0x000024ba       0x10 updater.o
+ .debug_macro   0x000024ca      0x160 updater.o
+ .debug_macro   0x0000262a       0x16 updater.o
+ .debug_macro   0x00002640       0x20 updater.o
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(updater.elf elf32-avr)
+LOAD linker stubs

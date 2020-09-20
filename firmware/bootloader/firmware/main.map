@@ -1,0 +1,658 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+                              c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eerd_byte.o)
+                              main.o (eeprom_read_byte)
+c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eewr_byte.o)
+                              main.o (eeprom_write_byte)
+
+Allocating common symbols
+Common symbol       size              file
+
+usbTxBuf            0xb               main.o
+usbDeviceAddr       0x1               main.o
+usbRxToken          0x1               main.o
+usbInputBufOffset   0x1               main.o
+usbMsgPtr           0x2               main.o
+usbRxLen            0x1               main.o
+usbNewDeviceAddr    0x1               main.o
+usbCurrentTok       0x1               main.o
+usbConfiguration    0x1               main.o
+usbRxBuf            0x16              main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x00000000        0x0 usbdrv/usbdrvasm.o
+ .bss           0x00000000        0x0 usbdrv/usbdrvasm.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .group         0x00000000        0xc usbdrv/oddebug.o
+ .text          0x00000000        0x0 usbdrv/oddebug.o
+ .data          0x00000000        0x0 usbdrv/oddebug.o
+ .bss           0x00000000        0x0 usbdrv/oddebug.o
+ .noinit        0x00000000        0x2 usbdrv/oddebug.o
+ .debug_info    0x00000000       0x91 usbdrv/oddebug.o
+ .debug_abbrev  0x00000000       0x50 usbdrv/oddebug.o
+ .debug_aranges
+                0x00000000       0x18 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0xf9 usbdrv/oddebug.o
+ .debug_macro   0x00000000      0xb3e usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x10 usbdrv/oddebug.o
+ .debug_macro   0x00000000      0x1c9 usbdrv/oddebug.o
+ .debug_macro   0x00000000      0x2fc usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x9e usbdrv/oddebug.o
+ .debug_macro   0x00000000      0xc24 usbdrv/oddebug.o
+ .debug_macro   0x00000000      0x170 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0xbd usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x34 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x18 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x6c usbdrv/oddebug.o
+ .debug_macro   0x00000000       0xec usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x22 usbdrv/oddebug.o
+ .debug_macro   0x00000000      0x11c usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x10 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x89 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0xd2 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x27 usbdrv/oddebug.o
+ .debug_macro   0x00000000       0x22 usbdrv/oddebug.o
+ .debug_line    0x00000000      0x223 usbdrv/oddebug.o
+ .debug_str     0x00000000     0x79af usbdrv/oddebug.o
+ .comment       0x00000000       0x12 usbdrv/oddebug.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .group         0x00000000        0xc main.o
+ .debug_macro   0x00000000      0xb3e main.o
+ .debug_macro   0x00000000       0x10 main.o
+ .debug_macro   0x00000000      0x1c9 main.o
+ .debug_macro   0x00000000      0x2fc main.o
+ .debug_macro   0x00000000       0x9e main.o
+ .debug_macro   0x00000000      0xc24 main.o
+ .debug_macro   0x00000000      0x170 main.o
+ .debug_macro   0x00000000       0xbd main.o
+ .debug_macro   0x00000000       0x34 main.o
+ .debug_macro   0x00000000       0x18 main.o
+ .debug_macro   0x00000000       0x6c main.o
+ .debug_macro   0x00000000       0xec main.o
+ .debug_macro   0x00000000       0x22 main.o
+ .debug_macro   0x00000000       0x10 main.o
+ .debug_macro   0x00000000       0x89 main.o
+ .debug_macro   0x00000000       0xd2 main.o
+ .debug_macro   0x00000000      0x11c main.o
+ .debug_macro   0x00000000       0x27 main.o
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eerd_byte.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eerd_byte.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eerd_byte.o)
+ .text          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eewr_byte.o)
+ .data          0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eewr_byte.o)
+ .bss           0x00000000        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eewr_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD usbdrv/usbdrvasm.o
+LOAD usbdrv/oddebug.o
+LOAD main.o
+Address of section .text set to 0x7000
+                0x00000000                nullVector = 0x0
+START GROUP
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x00000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00007000      0x858
+ *(.vectors)
+ .vectors       0x00007000       0x54 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00007000                __vector_default
+                0x00007000                __vectors
+ .vectors       0x00007054       0x1e main.o
+                0x00007054                bootloader__do_spm
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00007072                . = ALIGN (0x2)
+                0x00007072                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00007072        0x0 linker stubs
+ *(.trampolines*)
+                0x00007072                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+ .progmem.data  0x00007072       0x52 main.o
+                0x00007072                usbDescriptorConfiguration
+                0x00007084                usbDescriptorDevice
+                0x00007096                usbDescriptorStringDevice
+                0x000070a4                usbDescriptorStringVendor
+                0x000070c0                usbDescriptorString0
+                0x000070c4                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000070c4                __ctors_start = .
+ *(.ctors)
+                0x000070c4                __ctors_end = .
+                0x000070c4                __dtors_start = .
+ *(.dtors)
+                0x000070c4                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x000070c4        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x000070c4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000070c4        0xc c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ .init3         0x000070d0       0x18 main.o
+                0x000070d0                __BOOTLOADERENTRY_FROMSOFTWARE__bootup_investigate_RAMEND
+ *(.init3)
+ *(.init4)
+ .init4         0x000070e8       0x16 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+                0x000070e8                __do_copy_data
+ .init4         0x000070fe       0x10 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x000070fe                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000710e        0x4 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x00007112        0x2 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x00007112                __vector_12
+                0x00007112                __bad_interrupt
+                0x00007112                __vector_6
+                0x00007112                __vector_3
+                0x00007112                __vector_11
+                0x00007112                __vector_13
+                0x00007112                __vector_17
+                0x00007112                __vector_19
+                0x00007112                __vector_7
+                0x00007112                __vector_5
+                0x00007112                __vector_4
+                0x00007112                __vector_9
+                0x00007112                __vector_2
+                0x00007112                __vector_15
+                0x00007112                __vector_8
+                0x00007112                __vector_14
+                0x00007112                __vector_10
+                0x00007112                __vector_16
+                0x00007112                __vector_18
+                0x00007112                __vector_20
+ .text          0x00007114      0x25a usbdrv/usbdrvasm.o
+                0x00007114                usbCrc16
+                0x0000713e                usbCrc16Append
+                0x00007146                __vector_1
+ .text          0x0000736e       0x9e main.o
+                0x0000736e                usbFunctionSetup_USBASP_FUNC_TRANSMIT
+                0x0000740c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x0000740c      0x41e main.o
+                0x0000740c                main
+ .text.avr-libc
+                0x0000782a       0x10 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eerd_byte.o)
+                0x0000782a                eeprom_read_byte
+ .text.avr-libc
+                0x0000783a       0x1a c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5\libatmega32.a(eewr_byte.o)
+                0x0000783a                eeprom_write_byte
+                0x0000783c                eeprom_write_r18
+                0x00007854                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00007854        0x0 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+                0x00007854                _exit
+                0x00007854                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00007854        0x4 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00007858                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x00007858                _etext = .
+
+.data           0x00800060        0x6 load address 0x00007858
+                0x00800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800060        0x2 main.o
+                0x00800061                usbTxLen
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800062        0x4 main.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800066                . = ALIGN (0x2)
+                0x00800066                _edata = .
+                0x00800066                PROVIDE (__data_end = .)
+
+.bss            0x00800066       0x35
+                0x00800066                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00800066        0xb main.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800071       0x2a main.o
+                0x00800071                usbTxBuf
+                0x0080007c                usbDeviceAddr
+                0x0080007d                usbRxToken
+                0x0080007e                usbInputBufOffset
+                0x0080007f                usbMsgPtr
+                0x00800081                usbRxLen
+                0x00800082                usbNewDeviceAddr
+                0x00800083                usbCurrentTok
+                0x00800084                usbConfiguration
+                0x00800085                usbRxBuf
+                0x0080009b                PROVIDE (__bss_end = .)
+                0x00007858                __data_load_start = LOADADDR (.data)
+                0x0000785e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080009b        0x2
+                [!provide]                PROVIDE (__noinit_start = .)
+ *(.noinit*)
+ .noinit        0x0080009b        0x2 main.o
+                [!provide]                PROVIDE (__noinit_end = .)
+                0x0080009d                _end = .
+                [!provide]                PROVIDE (__heap_start = .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 main.o
+                                 0x12 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xb0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 usbdrv/usbdrvasm.o
+ .debug_aranges
+                0x00000020       0x30 main.o
+ .debug_aranges
+                0x00000050       0x20 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000070       0x20 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000090       0x20 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x14b0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x000004e6       0x26 usbdrv/usbdrvasm.o
+ .debug_info    0x0000050c      0xf32 main.o
+ .debug_info    0x0000143e       0x26 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x00001464       0x26 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x0000148a       0x26 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_abbrev   0x00000000      0x8d7
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0x14 usbdrv/usbdrvasm.o
+ .debug_abbrev  0x000004b7      0x3e4 main.o
+ .debug_abbrev  0x0000089b       0x14 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x000008af       0x14 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x000008c3       0x14 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_line     0x00000000     0x1d22
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x0000001d      0x6ef usbdrv/usbdrvasm.o
+ .debug_line    0x0000070c     0x1499 main.o
+ .debug_line    0x00001ba5       0x61 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x00001c06       0x97 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x00001c9d       0x85 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_frame    0x00000000       0x44
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 main.o
+
+.debug_str      0x00000000     0xbfa8
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x00000196       0x5c usbdrv/usbdrvasm.o
+ .debug_str     0x000001f2     0xbd64 main.o
+                               0xbfb4 (size before relaxing)
+ .debug_str     0x0000bf56       0x52 c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_exit.o)
+                                 0x5e (size before relaxing)
+ .debug_str     0x0000bfa8       0x5e c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_copy_data.o)
+ .debug_str     0x0000bfa8       0x5e c:/msys64/home/elmo/qmk_utils/avr8-gnu-toolchain/bin/../lib/gcc/avr/8.3.0/avr5\libgcc.a(_clear_bss.o)
+
+.debug_loc      0x00000000      0xb85
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xb85 main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x230
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x230 main.o
+
+.debug_macro    0x00000000      0xbbe
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x23a main.o
+ .debug_macro   0x0000023a       0x33 main.o
+ .debug_macro   0x0000026d       0x69 main.o
+ .debug_macro   0x000002d6       0x5a main.o
+ .debug_macro   0x00000330       0xfd main.o
+ .debug_macro   0x0000042d       0x33 main.o
+ .debug_macro   0x00000460      0x10c main.o
+ .debug_macro   0x0000056c      0x160 main.o
+ .debug_macro   0x000006cc       0x10 main.o
+ .debug_macro   0x000006dc      0x160 main.o
+ .debug_macro   0x0000083c       0x16 main.o
+ .debug_macro   0x00000852       0x35 main.o
+ .debug_macro   0x00000887      0x288 main.o
+ .debug_macro   0x00000b0f       0x22 main.o
+ .debug_macro   0x00000b31       0x8d main.o
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(main.elf elf32-avr)
+LOAD linker stubs
