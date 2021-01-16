@@ -4,18 +4,19 @@
 
 ### Acrylic layer case for the Sesame Ergo
 
-<img src="https://i.imgur.com/lKPbHEH.png" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/alJXngA.png" alt="drawing" width="800"/>
 
 ### To build the case you need:
 |Count|Part|
 |-|-|
-|1|[Bottom plate](sheet-bottom.dxf)|
-|2|[Bottom frame witout USB cutout](sheet-frame-bottom.dxf)|
-|2|[Bottom frame with USB cutout](sheet-frame-bottom-usb.dxf)|
-|1|[Switchplate](sheet-plate.dxf)|
-|2|[Top frame](sheet-frame-top.dxf)|
-|1|[Top plate](sheet-top.dxf)|
-|6|[Feet plates](feet.dxf)|
+|1|[Top plate](layer-top.dxf)|
+|2|[Top frame](layer-frame-top.dxf)|
+|1|[Switchplate](layer-plate.dxf)|
+|2|[Bottom frame with USB cutout](layer-frame-bottom-usb.dxf)|
+|2|[Bottom frame without USB cutout](layer-frame-bottom.dxf)|
+|1|[Bottom plate](layer-bottom.dxf)|
+|3|[Big feet plates](layer-feet-big.dxf)|
+|3|[Small feet plates](layer-feet-small.dxf)|
 
 The case is screwed together using M2 screws and nuts.
 
