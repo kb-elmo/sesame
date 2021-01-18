@@ -1,4 +1,4 @@
-update=10.08.2020 22:39:34
+update=18.01.2021 12:39:13
 version=1
 last_client=pcbnew
 [general]
@@ -46,7 +46,7 @@ CopperTextSizeH=1.5
 CopperTextThickness=0.3
 CopperTextItalic=0
 CopperTextUpright=1
-EdgeCutLineWidth=0.2
+EdgeCutLineWidth=0.05
 CourtyardLineWidth=0.05
 OthersLineWidth=0.15
 OthersTextSizeV=1
@@ -54,7 +54,7 @@ OthersTextSizeH=1
 OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
-SolderMaskClearance=0.05
+SolderMaskClearance=0
 SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
