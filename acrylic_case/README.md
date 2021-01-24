@@ -18,7 +18,7 @@
 |3|[Big feet plates](layer-feet-big.dxf)|
 |3|[Small feet plates](layer-feet-small.dxf)|
 
-The case is designed to be built out of 2mm acrylic sheets with the switchplate in 1.5mm.
+The case is designed to be built out of 2mm acrylic sheets with the switchplate in 1.5mm.  
 For screwing everything together m2 standoffs and screws are used.
 
 The case angle can be adjusted by the number of feet plates you attach to it.<br>
