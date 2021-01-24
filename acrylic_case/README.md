@@ -18,7 +18,8 @@
 |3|[Big feet plates](layer-feet-big.dxf)|
 |3|[Small feet plates](layer-feet-small.dxf)|
 
-The case is screwed together using M2 screws and nuts.
+The case is designed to be built out of 2mm acrylic sheets with the switchplate in 1.5mm.
+For screwing everything together m2 standoffs and screws are used.
 
 The case angle can be adjusted by the number of feet plates you attach to it.<br>
 With six plates you will get roughly six degrees of typing angle.
