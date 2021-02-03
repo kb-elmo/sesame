@@ -15,8 +15,9 @@
 |2|[Bottom frame with USB cutout](layer-frame-bottom-usb.dxf)|
 |2|[Bottom frame without USB cutout](layer-frame-bottom.dxf)|
 |1|[Bottom plate](layer-bottom.dxf)|
-|3|[Big feet plates](layer-feet-big.dxf)|
-|3|[Small feet plates](layer-feet-small.dxf)|
+|3|[Big feet plate](layer-feet-big.dxf)|
+|2|[Small feet plate](layer-feet-small.dxf)|
+|1|[Bottom feet plate](layer-feet-bottom.dxf)|
 
 The case is designed to be built out of 2mm acrylic sheets with the switchplate in 1.5mm.  
 For screwing everything together m2 standoffs and screws are used.
