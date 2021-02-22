@@ -1,18 +1,18 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6)-1*%
-%TF.CreationDate,2020-08-30T21:37:50+02:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
+%TF.CreationDate,2021-02-22T13:55:34+01:00*%
 %TF.ProjectId,backplate,6261636b-706c-4617-9465-2e6b69636164,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.6)-1) date 2020-08-30 21:37:50*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-02-22 13:55:34*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%ADD10C,5.100000*%
-%ADD11C,3.100000*%
+%ADD10C,5.000000*%
+%ADD11C,3.000000*%
 G04 APERTURE END LIST*
 D10*
 %TO.C,REF\u002A\u002A*%
@@ -26,7 +26,7 @@ D11*
 X211836000Y-181991000D03*
 %TD*%
 %TO.C,REF\u002A\u002A*%
-X211836000Y-76073000D03*
+X211836000Y-77216000D03*
 %TD*%
 %TO.C,REF\u002A\u002A*%
 X379476000Y-172212000D03*
