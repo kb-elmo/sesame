@@ -24,6 +24,11 @@
  |2|5.1 kΩ resistor|C714593|
  |2|3.6 V zener diode (DO-35 BZX55C3V6)|C2508|
  |66|universal switching diode (DO-35 1N4148)|C14516|
+ 
+ The USB port can be found here:  
+https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733
+
+-----
 
 <img src="https://files.elmo.space/kicad_images/sesame-Front.png" alt="drawing" width="800"/>
 <img src="https://files.elmo.space/kicad_images/sesame-Back.png" alt="drawing" width="800"/>
