@@ -15,7 +15,7 @@
  |1|500 mA polyfuse|C369081|
  |2|6mm momentary push buttons|C620202|
  |1|16 MHz quartz crystal|C16212|
- |1|4.7 uF electrolytic capacitor|C216312|
+ |1|4.7 uF electrolytic capacitor|C47879|
  |2|100 nF ceramic disk capacitor|C353909|
  |2|22 pF ceramic disk capacitor|C260720|
  |1|10 kΩ resistor|C119347|
