@@ -12,7 +12,7 @@
  |1|ATmega32A 40 pin DIP (32L works too)|C12703|
  |1|40 pin DIP socket (optional but highly recommended)|C2332|
  |1|USB4085-GF-A USB Type-C socket|
- |1|500 mA polyfuse|C523015|
+ |1|500 mA polyfuse|C369081|
  |2|6mm momentary push buttons|C620202|
  |1|16 MHz quartz crystal|C16212|
  |1|4.7 uF electrolytic capacitor|C216312|
