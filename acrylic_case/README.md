@@ -4,7 +4,7 @@
 
 ### Acrylic layer case for the Sesame Ergo
 
-<img src="https://i.imgur.com/alJXngA.png" alt="drawing" width="800"/>
+<img src="https://files.elmo.space/keyboards/sesame_pom/2.jpg" alt="drawing" width="800"/>
 
 ### To build the case you need:
 |Count|Part|
