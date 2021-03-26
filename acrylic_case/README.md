@@ -25,9 +25,6 @@ For screwing everything together m2 standoffs and screws are used.
 The case angle can be adjusted by the number of feet plates you attach to it.<br>
 With six plates you will get roughly six degrees of typing angle.
 
-Note: This has not been tested so far and is purely a concept.<br>
-If you want to make this case the risk is entirely up to you. I do not guarantee that it works or fits.
-
 ---
 
 This work is licensed under a
