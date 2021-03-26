@@ -24,7 +24,8 @@ For screwing everything together m2 standoffs and screws are used.
 
 You can change the appearance of the board slightly by using more or less top frame plates.  
 If you use 2 plates the keycaps will roughly sit at the same height of the case.  
-With 3 plates the bottom of the keycaps sits slightly lower (which imho looks a bit better).
+With 3 plates the bottom of the keycaps sits slightly lower (which imho looks a bit better).  
+The board in the picture has 2 top frame plates installed.
 
 The case angle can be adjusted by the number of feet plates you attach to it.<br>
 With six plates you will get roughly six degrees of typing angle.
