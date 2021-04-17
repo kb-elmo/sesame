@@ -30,8 +30,8 @@ https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733
 
 -----
 
-<img src="https://files.elmo.space/kicad_images/sesame-Front.png" alt="drawing" width="800"/>
-<img src="https://files.elmo.space/kicad_images/sesame-Back.png" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/kssJyx7.png" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/26DgXXG.png" alt="drawing" width="800"/>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
