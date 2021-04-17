@@ -16,8 +16,8 @@
  |2|6mm momentary push buttons|Boot,Reset|C620202|
  |1|16 MHz quartz crystal|XTAL1|C16212|
  |1|4.7 uF electrolytic capacitor|C1|C47879|
- |2|100 nF ceramic disk capacitor|C2,C3|C353909|
- |2|22 pF ceramic disk capacitor|C4,C5|C260720|
+ |2|100 nF ceramic disk capacitor|C2,C3|C254092|
+ |2|22 pF ceramic disk capacitor|C4,C5|C254096|
  |1|1.5 kΩ resistor|R1|C58620|
  |2|68 Ω resistor|R2,R3|C714279|
  |2|5.1 kΩ resistor|R4,R5|C714593|
