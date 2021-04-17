@@ -24,9 +24,10 @@
  |1|10 kΩ resistor|R6|C119347|
  |2|3.6 V zener diode (DO-35 BZX55C3V6)|D1,D2|C2508|
  |66|universal switching diode (DO-35 1N4148)|D3-D68|C14516|
- 
- The USB port can be found here:  
-https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733
+
+
+ The USB port can be found at [DigiKey](https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733)
+or [other retailers](https://octopart.com/usb4085-gf-a-global+connector+technology-94773699) 
 
 -----
 
