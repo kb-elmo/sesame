@@ -4,13 +4,13 @@
 
 ### Acrylic layer case for the Sesame Ergo
 
-<img src="https://i.imgur.com/alJXngA.png" alt="drawing" width="800"/>
+<img src="https://files.elmo.space/keyboards/sesame_pom/2.jpg" alt="drawing" width="800"/>
 
 ### To build the case you need:
 |Count|Part|
 |-|-|
 |1|[Top plate](layer-top.dxf)|
-|2|[Top frame](layer-frame-top.dxf)|
+|3|[Top frame](layer-frame-top.dxf)|
 |1|[Switchplate](layer-plate.dxf)|
 |2|[Bottom frame with USB cutout](layer-frame-bottom-usb.dxf)|
 |2|[Bottom frame without USB cutout](layer-frame-bottom.dxf)|
@@ -22,11 +22,13 @@
 The case is designed to be built out of 2mm acrylic sheets with the switchplate in 1.5mm.  
 For screwing everything together m2 standoffs and screws are used.
 
+You can change the appearance of the board slightly by using more or less top frame plates.  
+If you use 2 plates the keycaps will roughly sit at the same height of the case.  
+With 3 plates the bottom of the keycaps sits slightly lower (which imho looks a bit better).  
+The board in the picture has 2 top frame plates installed.
+
 The case angle can be adjusted by the number of feet plates you attach to it.<br>
 With six plates you will get roughly six degrees of typing angle.
-
-Note: This has not been tested so far and is purely a concept.<br>
-If you want to make this case the risk is entirely up to you. I do not guarantee that it works or fits.
 
 ---
 
