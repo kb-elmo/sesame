@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
-%TF.CreationDate,2021-04-17T17:51:11+02:00*%
+%TF.CreationDate,2021-04-17T17:55:29+02:00*%
 %TF.ProjectId,sesame,73657361-6d65-42e6-9b69-6361645f7063,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-04-17 17:51:11*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-04-17 17:55:29*
 %MOMM*%
 %LPD*%
 G01*
@@ -1162,7 +1162,7 @@ G01*
 G37*
 %TD*%
 D22*
-%TO.C,Reset1*%
+%TO.C,Reset*%
 X267977959Y-72725426D03*
 X267042357Y-77127090D03*
 X261620000Y-71374000D03*
@@ -2899,7 +2899,7 @@ D20*
 X165100000Y-80772000D03*
 %TD*%
 D22*
-%TO.C,Boot1*%
+%TO.C,Boot*%
 X258071959Y-70693426D03*
 X257136357Y-75095090D03*
 X251714000Y-69342000D03*
