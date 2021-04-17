@@ -30,7 +30,7 @@ https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859733
 
 -----
 
-<img src="https://i.imgur.com/iZmy8SQ.png" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/5rSmcRD.png" alt="drawing" width="800"/>
 <img src="https://i.imgur.com/26DgXXG.png" alt="drawing" width="800"/>
 
 This work is licensed under a
