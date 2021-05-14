@@ -4,7 +4,7 @@
 
 ### Alice like ergo keyboard using only THT parts
 
-<img src="https://i.imgur.com/bQU1XQh.jpg" alt="drawing" width="800"/>
+<img src="https://i.imgur.com/DNQMl8h.jpg" alt="drawing" width="800"/>
 
 ### Partslist
  |Count|Part|Reference|LCSC Part #|
