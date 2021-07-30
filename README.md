@@ -1,6 +1,7 @@
 # Sesame
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+<a href="https://ko-fi.com/kb_elmo"><img src="https://i.imgur.com/9T0bvqO.png" alt="kofibadge" align="right"/></a>
 
 ### Alice like ergo keyboard using only THT parts
 
